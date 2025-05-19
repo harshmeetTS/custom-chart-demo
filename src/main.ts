@@ -1,5 +1,5 @@
 import { getChartContext, type Query, type ChartModel, type ChartConfig, CustomChartContext, ChartToTSEvent, ColumnType, type ChartConfigEditorDefinition } from '@thoughtspot/ts-chart-sdk';
-import './style.css'
+import '../new-style.css'
 
 
 import {
